@@ -1,0 +1,46 @@
+body{
+    background-color: gainsboro;
+}
+
+
+form{
+    background-color: white;
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: solid rgb(214, 214, 214);
+}
+
+label{
+    display: block;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width: 98%;
+    height: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.div-form{
+    margin-bottom: 40px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
